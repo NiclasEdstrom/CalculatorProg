@@ -1,0 +1,15 @@
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\bin\Debug\net6.0\CalculatorProg.exe
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\bin\Debug\net6.0\CalculatorProg.deps.json
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\bin\Debug\net6.0\CalculatorProg.runtimeconfig.json
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\bin\Debug\net6.0\CalculatorProg.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\bin\Debug\net6.0\CalculatorProg.pdb
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.csproj.AssemblyReference.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.AssemblyInfoInputs.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.AssemblyInfo.cs
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.csproj.CoreCompileInputs.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\refint\CalculatorProg.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.pdb
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\CalculatorProg.genruntimeconfig.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\CalculatorProg\obj\Debug\net6.0\ref\CalculatorProg.dll
